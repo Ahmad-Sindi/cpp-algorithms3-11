@@ -23,17 +23,13 @@ Rather than comparing each cell individually, the algorithm uses a higher-level 
 Matrix 1:
 
 04 06 02  
-
 01 09 05  
-
 07 03 08  
 
 Matrix 2:
 
 03 05 04  
-
 02 08 06  
-
 09 01 07  
 
 
